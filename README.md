@@ -105,6 +105,7 @@
 * **[OpenSnowMap](https://www.opensnowmap.org/) / [GitHub](https://github.com/OpenSnowMap-org/Website-opensnowmap.org)** - Ski pistes and winter sports infrastructure for downhill, cross-country, and backcountry skiing.
 * **[OpenChargeMap](https://openchargemap.org/) / [GitHub](https://github.com/openchargemap)** - The world's largest open registry of EV charging locations (200K+ points, API, monthly exports).
 * **[WaterwayMap](https://waterwaymap.org/)** - Canal and river navigation — locks, moorings, and waterway connections from OSM.
+* **[Europe Beach Map](https://europebeachmap.com)** - Interactive map of 511 European beaches with sea-water temperatures, sand type and best season; full dataset downloadable as GeoJSON/JSON/CSV under CC BY 4.0.
 
 ## 🏛️ Boundary & Administrative Data
 
